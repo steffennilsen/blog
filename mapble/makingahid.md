@@ -68,6 +68,9 @@ The final result of revision 2 of the board ended up looking quite a bit nice th
 
 ![](images/assembledrev2.jpg)
 
+#### End result
+![](images/assembled.jpg)
+
 #### 3rd Revision
 While I haven't made a third revision yet, there are a few items I would want to improve.
 
